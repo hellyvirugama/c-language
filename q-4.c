@@ -20,6 +20,6 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    findEven(arr, size);
+    Even(arr, size);
 
 }
